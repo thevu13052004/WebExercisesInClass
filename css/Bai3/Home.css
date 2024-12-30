@@ -1,0 +1,14 @@
+.grapper {
+  height: auto;
+  width: 700px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.highlight-red {
+  color: red;
+}
+
+.bravo {
+  color: red;
+}
